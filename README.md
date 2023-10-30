@@ -1,4 +1,3 @@
-LIVING IS A DYING ARTLIVING IS A DYING ART LIVING IS A DYING ART
        ...     ,@@@@@@@,
       @@@@@   ,@@@@@@/@@,  .oo8888o.
        |.|        | |         | |
