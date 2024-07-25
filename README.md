@@ -21,4 +21,4 @@
 ooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 ```
 
-[![(#github_logo_ynoty2.png)]
+[!][(#github_logo_ynoty2.png)]
