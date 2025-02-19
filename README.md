@@ -20,5 +20,5 @@
 / ^ ^ ^  ^  ^  ^   ||||||||||||||||||||||||||||||oooooooooo| |ooooooo  |
 ooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 ```
-![Github-Gif](github-gif.gif)
+![Github-Gif](github_gif.gif)
 ![GitHub Logo](github_logo_ynoty2.png)
