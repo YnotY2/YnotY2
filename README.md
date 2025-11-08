@@ -1,4 +1,4 @@
-![Cowboy Bebop GIF](https://alphacoders.com/cowboy-bebop-gifs)
+![Cowboy Bebop GIF](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgiffiles.alphacoders.com%2F102%2F102443.gif&f=1&nofb=1&ipt=c9be2d4db0cdc1d0b13af889d9a32c3b02bd9982b15e821c06a1180aa92bc8c2)
 
 ```bash
 
