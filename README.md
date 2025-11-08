@@ -1,3 +1,5 @@
+![gif](https://alphacoders.com/cowboy-bebop-gifs)
+
 ```bash
 
           .          .           .     .                .       .
