@@ -1,4 +1,4 @@
-![gif](https://alphacoders.com/cowboy-bebop-gifs)
+![Cowboy Bebop GIF](https://alphacoders.com/cowboy-bebop-gifs)
 
 ```bash
 
