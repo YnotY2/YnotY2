@@ -1,4 +1,4 @@
-![Cowboy Bebop GIF](https://giffiles.alphacoders.com/102/102641.gif)
+![Cowboy Bebop GIF](https://media-assets.wired.it/photos/615dad44d8b66b13086d0420/16:9/w_1920%2Cc_limit/wired_placeholder_dummy.png)
 
 ```bash
 
